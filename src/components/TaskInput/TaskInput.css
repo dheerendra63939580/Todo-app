@@ -1,0 +1,11 @@
+.input {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    background-color: pink;
+    padding: 50px;
+    margin: auto;
+}
+.input input, .input button {
+    padding: 5px;
+}
